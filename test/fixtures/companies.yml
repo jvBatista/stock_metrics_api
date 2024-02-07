@@ -1,0 +1,39 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company_name: MyString
+  ipo: 1
+  cnpj: MyString
+  sector: MyString
+  segment: MyString
+  market_value: 1.5
+  firm_value: 1.5
+  enterprise_value: 1.5
+  equity: 1.5
+  net_income: 1.5
+  net_revenue: 1.5
+  cash_and_cash_equivalents: 1.5
+  liabilities: 1.5
+  assets: 1.5
+  ebit: 1.5
+  net_debt: 1.5
+  gross_debt: 1.5
+
+two:
+  company_name: MyString
+  ipo: 1
+  cnpj: MyString
+  sector: MyString
+  segment: MyString
+  market_value: 1.5
+  firm_value: 1.5
+  enterprise_value: 1.5
+  equity: 1.5
+  net_income: 1.5
+  net_revenue: 1.5
+  cash_and_cash_equivalents: 1.5
+  liabilities: 1.5
+  assets: 1.5
+  ebit: 1.5
+  net_debt: 1.5
+  gross_debt: 1.5

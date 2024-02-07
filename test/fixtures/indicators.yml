@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  indicator_name: MyString
+  description: MyString
+  value: 1.5
+  percentual: false
+  good_margin: 1.5
+  great_margin: 1.5
+
+two:
+  indicator_name: MyString
+  description: MyString
+  value: 1.5
+  percentual: false
+  good_margin: 1.5
+  great_margin: 1.5

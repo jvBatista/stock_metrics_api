@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  payment: 1.5
+  cum_date: 2023-08-24
+  ex_date: 2023-08-24
+
+two:
+  type: 
+  payment: 1.5
+  cum_date: 2023-08-24
+  ex_date: 2023-08-24

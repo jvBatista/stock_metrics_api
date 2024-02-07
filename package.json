@@ -1,0 +1,11 @@
+{
+  "name": "stock_metrics_api",
+  "version": "1.0.0",
+  "description": "API for fetching brazilian stocks data",
+  "repository": "git@github.com:jvBatista/stock_metrics_api.git",
+  "author": "João Victor Batista <jvtexbat@hotmail.com>",
+  "dependencies": {
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer": "^19.4.1"
+  }
+}

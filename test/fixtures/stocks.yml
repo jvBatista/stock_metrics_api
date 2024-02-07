@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stock_name: MyString
+  code: MyString
+  logo_url: MyString
+  price: 1.5
+  appreciation: 1.5
+  average_daily_liquidity: 1.5
+  number_of_papers: 1
+  free_float: 1.5
+  tag_along: 1.5
+
+two:
+  stock_name: MyString
+  code: MyString
+  logo_url: MyString
+  price: 1.5
+  appreciation: 1.5
+  average_daily_liquidity: 1.5
+  number_of_papers: 1
+  free_float: 1.5
+  tag_along: 1.5
